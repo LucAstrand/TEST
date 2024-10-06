@@ -1,0 +1,6 @@
+# Ignore data files
+data/*
+
+# Ignore results
+results/*
+
